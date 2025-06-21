@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:siglionel?theme=rule34">
 
 ## 后端工程师—siglionel
 
@@ -9,30 +9,33 @@
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
--   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：掘金优秀作者，发表了 30 篇技术文章，15万阅读。
+-   <a href="https://blog.csdn.net/m0_55928120"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：CSDN优秀作者，发表了 42 篇原创文章，25,260 总访问量，357 粉丝。
+
 
 ### **技术栈:**
 
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
-<a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
-<a href="https://nextjs.org/"><code><img height="20" src="./images/next.png"></code></a>
-<a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
-<a href="https://webpack.js.org/"><code><img height="20" src="./images/webpack.svg"></code></a>
-<a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
-<a href="https://sass-lang.com"><code><img height="20" src="./images/sass2.png"></code></a>
-<a href="https://tailwindcss.com"><code><img height="20" src="./images/tailwindcss.png"></code></a>
-<a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
-<a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
+<a href="https://www.java.com/"><code><img height="20" src="./images/java.png"></code></a>
+<a href="https://spring.io/"><code><img height="20" src="./images/spring.png"></code></a>
+<a href="https://quarkus.io/"><code><img height="20" src="./images/quarkus.png"></code></a>
+<a href="https://www.postgresql.org/"><code><img height="20" src="./images/postgresql.png"></code></a>
+<a href="https://www.mysql.com/"><code><img height="20" src="./images/mysql.png"></code></a>
+<a href="https://redis.io/"><code><img height="20" src="./images/redis.svg"></code></a>
+<a href="https://www.rabbitmq.com/"><code><img height="20" src="./images/rabbitmq.svg"></code></a>
+<a href="https://www.docker.com/"><code><img height="20" src="./images/docker.png"></code></a>
+<a href="https://kubernetes.io/"><code><img height="20" src="./images/kubernetes.svg"></code></a>
+<a href="https://nginx.org/"><code><img height="20" src="./images/nginx.svg"></code></a>
+<a href="https://micrometer.io/"><code><img height="20" src="./images/micrometer.png"></code></a>
+<a href="https://prometheus.io/"><code><img height="20" src="./images/prometheus.svg"></code></a>
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=siglionel&repo=public-apis)](https://github.com/siglionel/mp4To4K-rust)
 <br><br><br>
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+[![](https://activity-graph.herokuapp.com/graph?username=siglionel&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![siglionel's github stats](https://github-readme-stats.vercel.app/api?username=siglionel&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siglionel&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=siglionel&layout=compact&langs_count=6)
