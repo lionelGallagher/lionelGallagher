@@ -14,18 +14,16 @@
 
 ### **技术栈:**
 
-<a href="https://www.java.com/"><code><img height="20" src="./images/java.png"></code></a>
-<a href="https://spring.io/"><code><img height="20" src="./images/spring.png"></code></a>
-<a href="https://quarkus.io/"><code><img height="20" src="./images/quarkus.png"></code></a>
-<a href="https://www.postgresql.org/"><code><img height="20" src="./images/postgresql.png"></code></a>
-<a href="https://www.mysql.com/"><code><img height="20" src="./images/mysql.png"></code></a>
-<a href="https://redis.io/"><code><img height="20" src="./images/redis.svg"></code></a>
-<a href="https://www.rabbitmq.com/"><code><img height="20" src="./images/rabbitmq.svg"></code></a>
-<a href="https://www.docker.com/"><code><img height="20" src="./images/docker.png"></code></a>
-<a href="https://kubernetes.io/"><code><img height="20" src="./images/kubernetes.svg"></code></a>
-<a href="https://nginx.org/"><code><img height="20" src="./images/nginx.svg"></code></a>
-<a href="https://micrometer.io/"><code><img height="20" src="./images/micrometer.png"></code></a>
-<a href="https://prometheus.io/"><code><img height="20" src="./images/prometheus.svg"></code></a>
+<a href="https://www.java.com/"><code><img height="20" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code></a>
+<a href="https://spring.io/"><code><img height="20" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code></a>
+<a href="https://www.postgresql.org/"><code><img height="20" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></code></a>
+<a href="https://www.mysql.com/"><code><img height="20" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code></a>
+<a href="https://redis.io/"><code><img height="20" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"></code></a>
+<a href="https://www.rabbitmq.com/"><code><img height="20" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"></code></a>
+<a href="https://www.docker.com/"><code><img height="20" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code></a>
+<a href="https://kubernetes.io/"><code><img height="20" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code></a>
+<a href="https://nginx.org/"><code><img height="20" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"></code></a>
+<a href="https://prometheus.io/"><code><img height="20" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"></code></a>
 
 ### 开源项目
 
