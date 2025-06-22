@@ -26,8 +26,8 @@
 <a href="https://prometheus.io/"><code><img height="20" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"></code></a>
 
 <picture>
-<source medias="(prefers-color-scheme:1ight)"srcset="<(https://raw.githubusercontent.com/lionelGallagher/lionelGallagher/refs/heads/output/github-contribution-grid-snake.svg)>"/>
-<img alt="github-snake"src="<(https://raw.githubusercontent.com/lionelGallagher/lionelGallagher/refs/heads/output/github-contribution-grid-snake.svg)>"/>
+<source medias="(prefers-color-scheme:1ight)"srcset="https://raw.githubusercontent.com/lionelGallagher/lionelGallagher/refs/heads/output/github-contribution-grid-snake.svg"/>
+<img alt="github-snake"src="https://raw.githubusercontent.com/lionelGallagher/lionelGallagher/refs/heads/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 
