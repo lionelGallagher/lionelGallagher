@@ -34,12 +34,14 @@
 
 ### Github 活跃度
 
+
+
+[![](https://activity-graph.herokuapp.com/graph?username=lionelGallagher&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![lionelGallagher's github stats](https://github-readme-stats.vercel.app/api?username=lionelGallagher&show_icons=true&theme=vue)
+
 <picture>
 <source medias="(prefers-color-scheme:1ight)"srcset="https://raw.githubusercontent.com/lionelGallagher/lionelGallagher/refs/heads/output/github-contribution-grid-snake.svg"/>
 <img alt="github-snake"src="https://raw.githubusercontent.com/lionelGallagher/lionelGallagher/refs/heads/output/github-contribution-grid-snake.svg"/>
 </picture>
-
-[![](https://activity-graph.herokuapp.com/graph?username=lionelGallagher&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![lionelGallagher's github stats](https://github-readme-stats.vercel.app/api?username=lionelGallagher&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lionelGallagher&langs_count=6)
