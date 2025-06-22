@@ -25,11 +25,6 @@
 <a href="https://nginx.org/"><code><img height="20" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"></code></a>
 <a href="https://prometheus.io/"><code><img height="20" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"></code></a>
 
-<picture>
-<source medias="(prefers-color-scheme:1ight)"srcset="https://raw.githubusercontent.com/lionelGallagher/lionelGallagher/refs/heads/output/github-contribution-grid-snake.svg"/>
-<img alt="github-snake"src="https://raw.githubusercontent.com/lionelGallagher/lionelGallagher/refs/heads/output/github-contribution-grid-snake.svg"/>
-</picture>
-
 
 ### 开源项目
 
@@ -38,6 +33,11 @@
 <br><br><br>
 
 ### Github 活跃度
+
+<picture>
+<source medias="(prefers-color-scheme:1ight)"srcset="https://raw.githubusercontent.com/lionelGallagher/lionelGallagher/refs/heads/output/github-contribution-grid-snake.svg"/>
+<img alt="github-snake"src="https://raw.githubusercontent.com/lionelGallagher/lionelGallagher/refs/heads/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 [![](https://activity-graph.herokuapp.com/graph?username=lionelGallagher&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![lionelGallagher's github stats](https://github-readme-stats.vercel.app/api?username=lionelGallagher&show_icons=true&theme=vue)
