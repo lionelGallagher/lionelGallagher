@@ -33,7 +33,7 @@
 </p>
 
 <details>
-<summary><img src="./images/gates/unseal.svg" width="280" alt="解除封印，展开战绩与贡献轨迹" /></summary>
+<summary><picture><img src="./images/gates/unseal.svg" width="280" alt="解除封印，展开战绩与贡献轨迹" /></picture></summary>
 <br />
 <p align="center">
   <img src="./images/github-stats.svg" width="440" align="top" alt="GitHub 公开统计，每日刷新。" />
