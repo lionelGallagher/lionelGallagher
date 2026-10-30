@@ -7,12 +7,12 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">&#25112;&#26007;&#21147;&#25506;&#27979;&#25253;&#21578;, Rank: C</title>
+        <title id="titleId">&#25112;&#26007;&#35760;&#24405;, Rank: C</title>
         <desc id="descId">&#33719;&#26631;&#26143;&#25968;: 0, &#32047;&#35745;&#25552;&#20132;&#24635;&#25968;  : 21, &#21457;&#36215;&#30340; PR &#24635;&#25968;: 0, &#25552;&#20986;&#30340; issue &#24635;&#25968;: 3, &#36129;&#29486;&#30340;&#39033;&#30446;&#25968;（&#21435;&#24180;）: 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #ffb34a;
+            fill: #20252a;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -21,7 +21,7 @@
           }
 
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #d3e4d4;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #40474d;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -32,7 +32,7 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #d3e4d4;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #40474d;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
@@ -45,18 +45,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #89e8a2;
+      fill: #d66317;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #ffb34a;
+      stroke: #20252a;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #ffb34a;
+      stroke: #20252a;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -113,11 +113,11 @@
           class="card-bg"
           x="0.5"
           y="0.5"
-          rx="6"
+          rx="0"
           height="99%"
-          stroke="#31513e"
+          stroke="#22252a"
           width="519"
-          fill="#071015"
+          fill="#fffdf8"
           stroke-opacity="1"
         />
 
@@ -132,7 +132,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >&#25112;&#26007;&#21147;&#25506;&#27979;&#25253;&#21578;</text>
+      >&#25112;&#26007;&#35760;&#24405;</text>
     </g>
       </g>
 

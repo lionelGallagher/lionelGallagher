@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="164" viewBox="0 0 1280 164" role="img" aria-labelledby="title desc">
   <title id="title">精神时光屋 / 工作经验 · 3 年 11 个月 21 天</title>
   <desc id="desc">工作经验按首次公开提交起累计：3 年 11 个月 21 天。起点 2022-11-09，更新 2026-10-30，上海时间。</desc>
-  <rect x="1" y="1" width="1278" height="162" rx="6" fill="#071015" stroke="#31513e"/>
-  <path d="M2 2H13V28H2Z M2 36H8V62H2Z M2 70H13V96H2Z" fill="#ffb34a"/>
-  <g font-family="Consolas, 'SFMono-Regular', monospace">
-    <text x="38" y="39" font-size="13" fill="#ffb34a" letter-spacing="2">CAPSULE / 精神时光屋</text>
-    <text x="38" y="101" font-size="43" font-weight="700" fill="#e8f1ff">3 年 <tspan fill="#ffb34a">11</tspan> 个月 <tspan fill="#89e8a2">21</tspan> 天</text>
-    <text x="40" y="136" font-size="13" fill="#91a3bc">地球修炼时间 · 首次提交至今</text>
-    <path d="M760 32V132" stroke="#31513e"/>
-    <text x="798" y="46" font-size="13" fill="#91a3bc">TRAINING START <tspan fill="#e8f1ff">2022-11-09</tspan></text>
-    <text x="798" y="84" font-size="25" fill="#ffb34a" letter-spacing="2">DAY 001451 / KEEP TRAINING</text>
-    <text x="798" y="124" font-size="12" fill="#91a3bc">AS OF 2026-10-30 · UTC+08:00 · DAILY REFRESH</text>
+  <rect x="1" y="1" width="1278" height="162" rx="0" fill="#fffdf8" stroke="#22252a" stroke-width="2"/>
+  <path d="M1 1H7V57H1Z" fill="#d66317"/>
+  <g font-family="'Microsoft YaHei', 'PingFang SC', sans-serif">
+    <text x="38" y="39" font-size="18" fill="#d66317" letter-spacing="2">CAPSULE / 精神时光屋</text>
+    <text x="38" y="101" font-size="46" font-weight="700" fill="#20252a">3 年 <tspan fill="#d66317">11</tspan> 个月 <tspan fill="#d66317">21</tspan> 天</text>
+    <text x="40" y="136" font-size="16" fill="#626b73">地球修炼时间 · 首次提交至今</text>
+    <path d="M760 32V132" stroke="#22252a"/>
+    <text x="798" y="46" font-size="16" fill="#626b73">TRAINING START <tspan fill="#20252a">2022-11-09</tspan></text>
+    <text x="798" y="84" font-size="25" fill="#d66317" letter-spacing="2">DAY 001451 / KEEP TRAINING</text>
+    <text x="798" y="124" font-size="14" fill="#626b73">AS OF 2026-10-30 · UTC+08:00 · DAILY REFRESH</text>
   </g>
 </svg>

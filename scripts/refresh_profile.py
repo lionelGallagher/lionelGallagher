@@ -83,31 +83,31 @@ def render_experience(first_commit, today, compact=False):
         return f'''<svg xmlns="http://www.w3.org/2000/svg" width="640" height="252" viewBox="0 0 640 252" role="img" aria-labelledby="title desc">
   <title id="title">精神时光屋 / 工作经验 · {years} 年 {months} 个月 {days} 天</title>
   <desc id="desc">{description}</desc>
-  <rect x="1" y="1" width="638" height="250" rx="6" fill="#071015" stroke="#31513e"/>
-  <path d="M2 2H13V28H2Z M2 36H8V62H2Z M2 70H13V96H2Z" fill="#ffb34a"/>
-  <g font-family="Consolas, 'Microsoft YaHei', monospace">
-    <text x="30" y="40" font-size="18" fill="#ffb34a" letter-spacing="2">CAPSULE / 精神时光屋</text>
-    <text x="30" y="106" font-size="42" font-weight="700" fill="#e8f1ff">{years} 年 <tspan fill="#ffb34a">{months}</tspan> 个月 <tspan fill="#89e8a2">{days}</tspan> 天</text>
-    <text x="30" y="145" font-size="18" fill="#91a3bc">地球修炼时间 · 首次提交至今</text>
-    <path d="M30 166H610" stroke="#31513e"/>
-    <text x="30" y="199" font-size="17" fill="#91a3bc">SINCE <tspan fill="#e8f1ff">{start}</tspan> <tspan fill="#ffb34a">/ DAY {total:06d}</tspan></text>
-    <text x="30" y="229" font-size="15" fill="#91a3bc">AS OF {today} · UTC+08:00</text>
+  <rect x="1" y="1" width="638" height="250" rx="0" fill="#fffdf8" stroke="#22252a" stroke-width="2"/>
+  <path d="M1 1H7V57H1Z" fill="#d66317"/>
+  <g font-family="'Microsoft YaHei', 'PingFang SC', sans-serif">
+    <text x="30" y="40" font-size="18" fill="#d66317" letter-spacing="2">CAPSULE / 精神时光屋</text>
+    <text x="30" y="106" font-size="42" font-weight="700" fill="#20252a">{years} 年 <tspan fill="#d66317">{months}</tspan> 个月 <tspan fill="#d66317">{days}</tspan> 天</text>
+    <text x="30" y="145" font-size="18" fill="#626b73">地球修炼时间 · 首次提交至今</text>
+    <path d="M30 166H610" stroke="#22252a"/>
+    <text x="30" y="199" font-size="17" fill="#626b73">SINCE <tspan fill="#20252a">{start}</tspan> <tspan fill="#d66317">/ DAY {total:06d}</tspan></text>
+    <text x="30" y="229" font-size="15" fill="#626b73">AS OF {today} · UTC+08:00</text>
   </g>
 </svg>
 '''
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="164" viewBox="0 0 1280 164" role="img" aria-labelledby="title desc">
   <title id="title">精神时光屋 / 工作经验 · {years} 年 {months} 个月 {days} 天</title>
   <desc id="desc">{description}</desc>
-  <rect x="1" y="1" width="1278" height="162" rx="6" fill="#071015" stroke="#31513e"/>
-  <path d="M2 2H13V28H2Z M2 36H8V62H2Z M2 70H13V96H2Z" fill="#ffb34a"/>
-  <g font-family="Consolas, 'SFMono-Regular', monospace">
-    <text x="38" y="39" font-size="13" fill="#ffb34a" letter-spacing="2">CAPSULE / 精神时光屋</text>
-    <text x="38" y="101" font-size="43" font-weight="700" fill="#e8f1ff">{years} 年 <tspan fill="#ffb34a">{months}</tspan> 个月 <tspan fill="#89e8a2">{days}</tspan> 天</text>
-    <text x="40" y="136" font-size="13" fill="#91a3bc">地球修炼时间 · 首次提交至今</text>
-    <path d="M760 32V132" stroke="#31513e"/>
-    <text x="798" y="46" font-size="13" fill="#91a3bc">TRAINING START <tspan fill="#e8f1ff">{start}</tspan></text>
-    <text x="798" y="84" font-size="25" fill="#ffb34a" letter-spacing="2">DAY {total:06d} / KEEP TRAINING</text>
-    <text x="798" y="124" font-size="12" fill="#91a3bc">AS OF {today} · UTC+08:00 · DAILY REFRESH</text>
+  <rect x="1" y="1" width="1278" height="162" rx="0" fill="#fffdf8" stroke="#22252a" stroke-width="2"/>
+  <path d="M1 1H7V57H1Z" fill="#d66317"/>
+  <g font-family="'Microsoft YaHei', 'PingFang SC', sans-serif">
+    <text x="38" y="39" font-size="18" fill="#d66317" letter-spacing="2">CAPSULE / 精神时光屋</text>
+    <text x="38" y="101" font-size="46" font-weight="700" fill="#20252a">{years} 年 <tspan fill="#d66317">{months}</tspan> 个月 <tspan fill="#d66317">{days}</tspan> 天</text>
+    <text x="40" y="136" font-size="16" fill="#626b73">地球修炼时间 · 首次提交至今</text>
+    <path d="M760 32V132" stroke="#22252a"/>
+    <text x="798" y="46" font-size="16" fill="#626b73">TRAINING START <tspan fill="#20252a">{start}</tspan></text>
+    <text x="798" y="84" font-size="25" fill="#d66317" letter-spacing="2">DAY {total:06d} / KEEP TRAINING</text>
+    <text x="798" y="124" font-size="14" fill="#626b73">AS OF {today} · UTC+08:00 · DAILY REFRESH</text>
   </g>
 </svg>
 '''
@@ -133,12 +133,12 @@ def main():
     save_svg(image_dir / "experience-mobile.svg", render_experience(config["first_commit"], today, compact=True).encode())
     print("Experience refreshed:", config["first_commit"]["date"], "->", today)
 
-    common = {"username": owner, "bg_color": "071015", "title_color": "ffb34a",
-              "text_color": "d3e4d4", "icon_color": "89e8a2", "border_color": "31513e",
-              "locale": "cn", "border_radius": "6", "disable_animations": "true"}
+    common = {"username": owner, "bg_color": "fffdf8", "title_color": "20252a",
+              "text_color": "40474d", "icon_color": "d66317", "border_color": "22252a",
+              "locale": "cn", "border_radius": "0", "disable_animations": "true"}
     cards = [
-        ("github-stats.svg", "/api", {"custom_title": "战斗力探测报告", "show_icons": "true", "hide_rank": "true", "include_all_commits": "true", "card_width": "520"}),
-        ("top-langs.svg", "/api/top-langs/", {"custom_title": "技能能量分布", "langs_count": "6", "layout": "compact", "card_width": "420"}),
+        ("github-stats.svg", "/api", {"custom_title": "战斗记录", "show_icons": "true", "hide_rank": "true", "include_all_commits": "true", "card_width": "520"}),
+        ("top-langs.svg", "/api/top-langs/", {"custom_title": "技能分布", "langs_count": "6", "layout": "compact", "card_width": "420"}),
     ]
     for filename, endpoint, options in cards:
         path = image_dir / filename
