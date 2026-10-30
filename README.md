@@ -1,7 +1,7 @@
 <a href="https://github.com/lionelGallagher?tab=repositories">
   <picture>
-    <source media="(max-width: 600px)" srcset="./images/domain-awakening-mobile.png" />
-    <img src="./images/domain-awakening.png" width="100%" alt="领域展开 · 万象编译。以异常为祭，以代码重铸世界。点击展开领域。" />
+    <source media="(max-width: 600px)" srcset="./images/domain-awakening-sorceress-mobile.png" />
+    <img src="./images/domain-awakening-sorceress.png" width="100%" alt="银发女术师：领域展开 · 万象编译。以异常为祭，以代码重铸世界。点击展开领域。" />
   </picture>
 </a>
 
