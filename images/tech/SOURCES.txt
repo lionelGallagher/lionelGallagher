@@ -1,0 +1,10 @@
+java.svg: https://www.vectorlogo.zone/logos/java/java-icon.svg
+spring.svg: https://www.vectorlogo.zone/logos/springio/springio-icon.svg
+mysql.svg: https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg
+postgresql.svg: https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg
+redis.svg: https://www.vectorlogo.zone/logos/redis/redis-icon.svg
+rabbitmq.svg: https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg
+docker.svg: https://www.vectorlogo.zone/logos/docker/docker-icon.svg
+kubernetes.svg: https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg
+nginx.svg: https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg
+prometheus.svg: https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg

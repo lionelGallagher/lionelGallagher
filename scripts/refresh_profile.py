@@ -81,32 +81,32 @@ def render_experience(first_commit, today, compact=False):
                          f"起点 {start}，更新 {today}，上海时间。")
     if compact:
         return f'''<svg xmlns="http://www.w3.org/2000/svg" width="640" height="252" viewBox="0 0 640 252" role="img" aria-labelledby="title desc">
-  <title id="title">修炼年限 / 工作经验 · {years} 年 {months} 个月 {days} 天</title>
+  <title id="title">觉醒纪元 / 工作经验 · {years} 年 {months} 个月 {days} 天</title>
   <desc id="desc">{description}</desc>
-  <rect x="1" y="1" width="638" height="250" rx="14" fill="#0b1220" stroke="#203248"/>
-  <path d="M1 35V15Q1 1 15 1H53" fill="none" stroke="#55e6ca" stroke-width="2"/>
+  <rect x="1" y="1" width="638" height="250" rx="14" fill="#080e1c" stroke="#294362"/>
+  <path d="M1 35V15Q1 1 15 1H53" fill="none" stroke="#63ddff" stroke-width="2"/>
   <g font-family="Consolas, 'Microsoft YaHei', monospace">
-    <text x="30" y="40" font-size="18" fill="#55e6ca" letter-spacing="2">EXPERIENCE / 修炼年限</text>
-    <text x="30" y="106" font-size="42" font-weight="700" fill="#e8f1ff">{years} 年 <tspan fill="#55e6ca">{months}</tspan> 个月 <tspan fill="#a78bfa">{days}</tspan> 天</text>
-    <text x="30" y="145" font-size="18" fill="#91a3bc">工作经验 · 从首次公开提交起累计</text>
-    <path d="M30 166H610" stroke="#203248"/>
-    <text x="30" y="199" font-size="17" fill="#91a3bc">SINCE <tspan fill="#e8f1ff">{start}</tspan> <tspan fill="#55e6ca">/ DAY {total:06d}</tspan></text>
+    <text x="30" y="40" font-size="18" fill="#63ddff" letter-spacing="2">AWAKENING / 觉醒纪元</text>
+    <text x="30" y="106" font-size="42" font-weight="700" fill="#e8f1ff">{years} 年 <tspan fill="#63ddff">{months}</tspan> 个月 <tspan fill="#a78bfa">{days}</tspan> 天</text>
+    <text x="30" y="145" font-size="18" fill="#91a3bc">代码契约 · 首次提交至今</text>
+    <path d="M30 166H610" stroke="#294362"/>
+    <text x="30" y="199" font-size="17" fill="#91a3bc">SINCE <tspan fill="#e8f1ff">{start}</tspan> <tspan fill="#63ddff">/ DAY {total:06d}</tspan></text>
     <text x="30" y="229" font-size="15" fill="#91a3bc">AS OF {today} · UTC+08:00</text>
   </g>
 </svg>
 '''
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="164" viewBox="0 0 1280 164" role="img" aria-labelledby="title desc">
-  <title id="title">修炼年限 / 工作经验 · {years} 年 {months} 个月 {days} 天</title>
+  <title id="title">觉醒纪元 / 工作经验 · {years} 年 {months} 个月 {days} 天</title>
   <desc id="desc">{description}</desc>
-  <rect x="1" y="1" width="1278" height="162" rx="14" fill="#0b1220" stroke="#203248"/>
-  <path d="M1 35V15Q1 1 15 1H53" fill="none" stroke="#55e6ca" stroke-width="2"/>
+  <rect x="1" y="1" width="1278" height="162" rx="14" fill="#080e1c" stroke="#294362"/>
+  <path d="M1 35V15Q1 1 15 1H53" fill="none" stroke="#63ddff" stroke-width="2"/>
   <g font-family="Consolas, 'SFMono-Regular', monospace">
-    <text x="38" y="39" font-size="13" fill="#55e6ca" letter-spacing="2">EXPERIENCE / 修炼年限</text>
-    <text x="38" y="101" font-size="43" font-weight="700" fill="#e8f1ff">{years} 年 <tspan fill="#55e6ca">{months}</tspan> 个月 <tspan fill="#a78bfa">{days}</tspan> 天</text>
-    <text x="40" y="136" font-size="13" fill="#91a3bc">工作经验 · 从首次公开提交起累计</text>
-    <path d="M760 32V132" stroke="#203248"/>
-    <text x="798" y="46" font-size="13" fill="#91a3bc">FIRST COMMIT <tspan fill="#e8f1ff">{start}</tspan></text>
-    <text x="798" y="84" font-size="25" fill="#55e6ca" letter-spacing="2">DAY {total:06d} / CONTINUE</text>
+    <text x="38" y="39" font-size="13" fill="#63ddff" letter-spacing="2">AWAKENING / 觉醒纪元</text>
+    <text x="38" y="101" font-size="43" font-weight="700" fill="#e8f1ff">{years} 年 <tspan fill="#63ddff">{months}</tspan> 个月 <tspan fill="#a78bfa">{days}</tspan> 天</text>
+    <text x="40" y="136" font-size="13" fill="#91a3bc">代码契约 · 首次提交至今</text>
+    <path d="M760 32V132" stroke="#294362"/>
+    <text x="798" y="46" font-size="13" fill="#91a3bc">CONTRACT <tspan fill="#e8f1ff">{start}</tspan></text>
+    <text x="798" y="84" font-size="25" fill="#63ddff" letter-spacing="2">DAY {total:06d} / UNSEALED</text>
     <text x="798" y="124" font-size="12" fill="#91a3bc">AS OF {today} · UTC+08:00 · DAILY REFRESH</text>
   </g>
 </svg>

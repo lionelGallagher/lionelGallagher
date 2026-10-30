@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="252" viewBox="0 0 640 252" role="img" aria-labelledby="title desc">
-  <title id="title">修炼年限 / 工作经验 · 3 年 11 个月 21 天</title>
+  <title id="title">觉醒纪元 / 工作经验 · 3 年 11 个月 21 天</title>
   <desc id="desc">工作经验按首次公开提交起累计：3 年 11 个月 21 天。起点 2022-11-09，更新 2026-10-30，上海时间。</desc>
-  <rect x="1" y="1" width="638" height="250" rx="14" fill="#0b1220" stroke="#203248"/>
-  <path d="M1 35V15Q1 1 15 1H53" fill="none" stroke="#55e6ca" stroke-width="2"/>
+  <rect x="1" y="1" width="638" height="250" rx="14" fill="#080e1c" stroke="#294362"/>
+  <path d="M1 35V15Q1 1 15 1H53" fill="none" stroke="#63ddff" stroke-width="2"/>
   <g font-family="Consolas, 'Microsoft YaHei', monospace">
-    <text x="30" y="40" font-size="18" fill="#55e6ca" letter-spacing="2">EXPERIENCE / 修炼年限</text>
-    <text x="30" y="106" font-size="42" font-weight="700" fill="#e8f1ff">3 年 <tspan fill="#55e6ca">11</tspan> 个月 <tspan fill="#a78bfa">21</tspan> 天</text>
-    <text x="30" y="145" font-size="18" fill="#91a3bc">工作经验 · 从首次公开提交起累计</text>
-    <path d="M30 166H610" stroke="#203248"/>
-    <text x="30" y="199" font-size="17" fill="#91a3bc">SINCE <tspan fill="#e8f1ff">2022-11-09</tspan> <tspan fill="#55e6ca">/ DAY 001451</tspan></text>
+    <text x="30" y="40" font-size="18" fill="#63ddff" letter-spacing="2">AWAKENING / 觉醒纪元</text>
+    <text x="30" y="106" font-size="42" font-weight="700" fill="#e8f1ff">3 年 <tspan fill="#63ddff">11</tspan> 个月 <tspan fill="#a78bfa">21</tspan> 天</text>
+    <text x="30" y="145" font-size="18" fill="#91a3bc">代码契约 · 首次提交至今</text>
+    <path d="M30 166H610" stroke="#294362"/>
+    <text x="30" y="199" font-size="17" fill="#91a3bc">SINCE <tspan fill="#e8f1ff">2022-11-09</tspan> <tspan fill="#63ddff">/ DAY 001451</tspan></text>
     <text x="30" y="229" font-size="15" fill="#91a3bc">AS OF 2026-10-30 · UTC+08:00</text>
   </g>
 </svg>
