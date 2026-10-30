@@ -12,7 +12,7 @@
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #55e6ca;
+            fill: #ffb34a;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -37,7 +37,7 @@
       }
     }
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #c4d0e3;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #d3e4d4;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -46,7 +46,7 @@
     .bold { font-weight: 700 }
     .lang-name {
       font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
-      fill: #c4d0e3;
+      fill: #d3e4d4;
     }
     .stagger {
       opacity: 0;
@@ -96,11 +96,11 @@
           class="card-bg"
           x="0.5"
           y="0.5"
-          rx="12"
+          rx="6"
           height="99%"
-          stroke="#203248"
+          stroke="#31513e"
           width="419"
-          fill="#0b1220"
+          fill="#071015"
           stroke-opacity="1"
         />
 
@@ -115,7 +115,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Most Used Languages</text>
+      >&#25216;&#33021;&#33021;&#37327;&#20998;&#24067;</text>
     </g>
       </g>
 
@@ -137,7 +137,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="130.12"
+          width="129.9"
           height="8"
           fill="#f1e05a"
         />
@@ -145,9 +145,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="130.12"
+          x="129.9"
           y="0"
-          width="98.14"
+          width="97.98"
           height="8"
           fill="#ff3e00"
         />
@@ -155,9 +155,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="228.26"
+          x="227.88"
           y="0"
-          width="86.57"
+          width="87.06"
           height="8"
           fill="#3572A5"
         />
@@ -165,9 +165,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="314.83"
+          x="314.94"
           y="0"
-          width="24.05"
+          width="24.01"
           height="8"
           fill="#3178c6"
         />
@@ -175,9 +175,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="338.88"
+          x="338.95"
           y="0"
-          width="16.41"
+          width="16.39"
           height="8"
           fill="#41b883"
         />
@@ -185,9 +185,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="355.29"
+          x="355.34"
           y="0"
-          width="14.7"
+          width="14.67"
           height="8"
           fill="#663399"
         />
@@ -198,35 +198,35 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 35.17%
+        JavaScript 35.11%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#ff3e00" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Svelte 26.53%
+        Svelte 26.48%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 23.40%
+        Python 23.53%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 6.50%
+        TypeScript 6.49%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#41b883" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Vue 4.44%
+        Vue 4.43%
       </text>
     </g>
   </g><g transform="translate(0, 50)">

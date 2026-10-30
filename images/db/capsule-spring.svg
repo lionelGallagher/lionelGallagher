@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="156" viewBox="0 0 112 156" role="img" aria-labelledby="title desc">
+<title id="title">胶囊装备 02 · Spring</title><desc id="desc">点击胶囊进入Spring官网。</desc>
+<defs><clipPath id="pill"><rect x="18" y="13" width="76" height="112" rx="35"/></clipPath><linearGradient id="shell"><stop stop-color="#9da9b2"/><stop offset=".25" stop-color="#f4f6f5"/><stop offset=".7" stop-color="#d6dfe3"/><stop offset="1" stop-color="#8c9ca6"/></linearGradient></defs>
+<rect x="3" y="2" width="106" height="152" rx="5" fill="#071015" stroke="#31513e"/><text x="10" y="15" font-family="Consolas,monospace" font-size="8" fill="#70c783">02</text>
+<rect x="18" y="13" width="76" height="112" rx="35" fill="url(#shell)" stroke="#26323b" stroke-width="2"/>
+<g clip-path="url(#pill)"><rect x="18" y="13" width="76" height="38" fill="#f39b28"/><path d="M18 51H94" stroke="#26323b" stroke-width="3"/></g>
+<text x="56" y="40" text-anchor="middle" font-family="Consolas,monospace" font-size="17" font-weight="700" fill="#17202a">C.</text><ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="48" height="48" x="32" y="58"><ns0:path d="M58.2 3.365a29.503 29.503 0 0 1-3.419 6.064A32.094 32.094 0 1 0 9.965 55.372l1.186 1.047a32.08 32.08 0 0 0 52.67-22.253c.875-8.17-1.524-18.51-5.62-30.8zM14.53 55.558a2.744 2.744 0 1 1-.404-3.857 2.744 2.744 0 0 1 .404 3.857zm43.538-9.61c-7.92 10.55-24.83 6.99-35.672 7.502 0 0-1.922.113-3.857.43 0 0 .73-.31 1.663-.663 7.614-2.65 11.213-3.16 15.838-5.54 8.708-4.427 17.322-14.122 19.112-24.2-3.313 9.695-13.373 18.032-22.53 21.418-6.276 2.313-17.614 4.566-17.614 4.566l-.457-.245c-7.714-3.75-7.952-20.457 6.077-25.845 6.143-2.366 12.02-1.067 18.654-2.65 7.084-1.683 15.28-6.99 18.615-13.916 3.73 11.08 8.224 28.422.166 39.15z" fill="#68bd45" /></ns0:svg>
+<text x="56" y="144" text-anchor="middle" font-family="Consolas,monospace" font-size="13" font-weight="700" fill="#dceada">Spring</text>
+</svg>

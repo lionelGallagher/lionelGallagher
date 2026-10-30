@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="138" viewBox="0 0 128 138" role="img" aria-labelledby="title desc">
+<title id="title">1星球 · 技术手记</title><desc id="desc">点击龙珠进入技术手记。</desc>
+<defs><radialGradient id="orange" cx=".32" cy=".25"><stop stop-color="#ffedb4"/><stop offset=".4" stop-color="#ffb324"/><stop offset=".8" stop-color="#ef6c08"/><stop offset="1" stop-color="#96390b"/></radialGradient><pattern id="grid" width="12" height="12" patternUnits="userSpaceOnUse"><path d="M12 0H0V12" fill="none" stroke="#4dbb70" stroke-opacity=".1"/></pattern></defs>
+<style>.orb{animation:pulse 3s ease-in-out infinite}@keyframes pulse{50%{opacity:.82}}@media(prefers-reduced-motion:reduce){.orb{animation:none}}</style><rect x="2" y="2" width="124" height="134" rx="5" fill="#071015" stroke="#31513e"/><rect x="4" y="4" width="120" height="90" fill="url(#grid)"/>
+<g fill="none" stroke="#63d883" stroke-opacity=".3"><circle cx="64" cy="53" r="44"/><path d="M64 4V11 M64 95V102 M15 53H22 M106 53H113"/></g>
+<g class="orb"><circle cx="64" cy="53" r="36" fill="url(#orange)" stroke="#ffc862" stroke-width="1.5"/><polygon points="64.00,48.00 65.23,51.30 68.76,51.45 66.00,53.65 66.94,57.05 64.00,55.10 61.06,57.05 62.00,53.65 59.24,51.45 62.77,51.30" fill="#c8260d"/><path d="M41 35Q48 22 64 24" fill="none" stroke="#fff5d1" stroke-width="4" stroke-linecap="round" opacity=".7"/></g>
+<text x="64" y="113" text-anchor="middle" font-family="'Microsoft YaHei',sans-serif" font-size="18" font-weight="700" fill="#f2e8d6">技术手记</text><text x="64" y="130" text-anchor="middle" font-family="Consolas,monospace" font-size="8" letter-spacing=".7" fill="#79bf8d">BLOG</text>
+</svg>
