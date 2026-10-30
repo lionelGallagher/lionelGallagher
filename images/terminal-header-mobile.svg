@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">lionelGallagher — Backend Sorcerer</title>
+  <desc id="desc">以代码为咏唱，以架构构筑领域。Java、Spring、开源探索。</desc>
+  <defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#6485a6" stroke-opacity=".07"/></pattern></defs>
+  <rect x="1" y="1" width="638" height="398" rx="16" fill="#0b1424" stroke="#203248"/>
+  <rect x="1" y="44" width="638" height="336" fill="url(#grid)"/>
+  <path d="M1 44H639" stroke="#203248"/>
+  <circle cx="23" cy="23" r="5" fill="#ff6b7c"/><circle cx="44" cy="23" r="5" fill="#eab766"/><circle cx="65" cy="23" r="5" fill="#55e6ca"/>
+  <g font-family="Consolas,'Microsoft YaHei',monospace">
+    <text x="89" y="28" font-size="13" fill="#8195b2">lionel@domain:~</text>
+    <text x="30" y="94" font-size="16" letter-spacing="2" fill="#55e6ca">BACKEND SORCERER / 術式起動</text>
+    <text x="26" y="161" font-size="43" font-weight="700" letter-spacing="-2" fill="#edf4ff">lionelGallagher<tspan fill="#55e6ca">_</tspan></text>
+    <text x="30" y="211" font-family="'Microsoft YaHei','PingFang SC',sans-serif" font-size="25" font-weight="600" fill="#d0dcf0">以代码为咏唱，以架构构筑领域。</text>
+    <text x="31" y="247" font-size="16" fill="#879ab7" letter-spacing="1">JAVA / SPRING / OPEN SOURCE</text>
+    <rect x="28" y="277" width="584" height="82" rx="8" fill="#080f1c" stroke="#263b51"/>
+    <text x="44" y="310" font-size="19" fill="#55e6ca">❯ <tspan fill="#d0dcf0">domain.expand(</tspan><tspan fill="#a78bfa">"possibility"</tspan><tspan fill="#d0dcf0">);</tspan></text>
+    <text x="44" y="340" font-size="15" fill="#8195b2">BUILD · BREAK · UNDERSTAND · REBUILD</text>
+    <text x="31" y="385" font-size="12" letter-spacing="2" fill="#7f94b2">LOGIC IS MY INCANTATION.</text>
+  </g>
+  <g fill="none" stroke="#55e6ca" stroke-opacity=".4"><circle cx="578" cy="82" r="23"/><path d="M578 60 597 93H559Z M578 104 559 71H597Z"/></g>
+</svg>

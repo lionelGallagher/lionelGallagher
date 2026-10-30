@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="100" viewBox="0 0 1280 100" role="img" aria-labelledby="title desc">
+  <title id="title">术式未完，持续进化。</title>
+  <desc id="desc">End of file. The next chapter is still compiling.</desc>
+  <rect x="1" y="1" width="1278" height="98" rx="12" fill="#0b1220" stroke="#203248"/>
+  <circle cx="32" cy="32" r="4" fill="#55e6ca"/>
+  <text x="48" y="37" font-family="Consolas,monospace" font-size="12" letter-spacing="2" fill="#55e6ca">END OF FILE / NOT THE STORY</text>
+  <text x="31" y="74" font-family="'Microsoft YaHei','PingFang SC',sans-serif" font-size="22" font-weight="600" letter-spacing="3" fill="#dce7f8">术式未完，持续进化。</text>
+  <text x="1245" y="60" text-anchor="end" font-family="Consolas,monospace" font-size="12" fill="#8195b2">THE NEXT CHAPTER IS STILL COMPILING<tspan fill="#a78bfa">_</tspan></text>
+</svg>

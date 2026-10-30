@@ -1,47 +1,69 @@
-<img align="right" src="https://count.getloli.com/get/@:lionelGallagher?theme=rule34">
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./images/terminal-header-mobile.svg" />
+    <img src="./images/terminal-header.svg" width="100%" alt="lionelGallagher — Backend Sorcerer。以代码为咏唱，以架构构筑领域。" />
+  </picture>
+</p>
 
-## 后端工程师—lionelGallagher
+<p align="center">
+  <a href="https://blog.csdn.net/m0_55928120"><strong>技术手记 · CSDN</strong></a>
+  &nbsp; / &nbsp;
+  <a href="#03--missions-任务记录"><strong>任务记录 · Projects</strong></a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/lionelGallagher?tab=repositories"><strong>全部仓库 · Repositories</strong></a>
+</p>
 
-热爱后端、热爱技术。工作经验2年。喜欢参与一些开源项目的讨论。
+### `01 / DOSSIER` 术式档案
 
-### **社交主页：**
+> **「 将混沌编译为秩序，将想法部署到现实。 」**
 
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+我是 **lionel**，一名热爱后端、热爱技术的开发者。主修 Java 与 Spring，也喜欢在开源世界里发现新工具、拆解新问题。
 
+<a href="./data/profile.json">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./images/experience-mobile.svg" />
+    <img src="./images/experience.svg" width="100%" alt="工作经验：按本人首次公开提交起累计，每日自动计算至今。点击查看包含提交链接的起点记录。" />
+  </picture>
+</a>
 
--   <a href="https://blog.csdn.net/m0_55928120"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：CSDN优秀作者，发表了 42 篇原创文章，25,260 总访问量，357 粉丝。
+<sub>修炼起点：首次公开提交 · 每日按上海时间刷新 · 点击年限卡片可查看源记录。</sub>
 
-
-### **技术栈:**
-
-<a href="https://www.java.com/"><code><img height="20" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code></a>
-<a href="https://spring.io/"><code><img height="20" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code></a>
-<a href="https://www.postgresql.org/"><code><img height="20" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></code></a>
-<a href="https://www.mysql.com/"><code><img height="20" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code></a>
-<a href="https://redis.io/"><code><img height="20" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"></code></a>
-<a href="https://www.rabbitmq.com/"><code><img height="20" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"></code></a>
-<a href="https://www.docker.com/"><code><img height="20" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code></a>
-<a href="https://kubernetes.io/"><code><img height="20" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code></a>
-<a href="https://nginx.org/"><code><img height="20" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"></code></a>
-<a href="https://prometheus.io/"><code><img height="20" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"></code></a>
-
-
-### 开源项目
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=lionelGallagher&repo=lionel-emos-system)](https://github.com/lionelGallagher/lionel-emos-system)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=lionelGallagher&repo=mcpm.sh)](https://github.com/lionelGallagher/mcpm.sh)
-<br><br><br>
-
-### Github 活跃度
-
-
-
-[![](https://activity-graph.herokuapp.com/graph?username=lionelGallagher&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![lionelGallagher's github stats](https://github-readme-stats.vercel.app/api?username=lionelGallagher&show_icons=true&theme=vue)
+### `02 / ARSENAL` 术式武装库
 
 <picture>
-<source medias="(prefers-color-scheme:1ight)"srcset="https://raw.githubusercontent.com/lionelGallagher/lionelGallagher/refs/heads/output/github-contribution-grid-snake.svg"/>
-<img alt="github-snake"src="https://raw.githubusercontent.com/lionelGallagher/lionelGallagher/refs/heads/output/github-contribution-grid-snake.svg"/>
+  <source media="(max-width: 600px)" srcset="./images/arsenal-mobile.svg" />
+  <img src="./images/arsenal.svg" width="100%" alt="核心：Java、Spring Boot；数据：MySQL、PostgreSQL、Redis、RabbitMQ；部署：Docker、Kubernetes、Nginx、Prometheus。" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lionelGallagher&langs_count=6)
+### `03 / MISSIONS` 任务记录
+
+| `MAIN QUEST` 原创任务 | `SIDE QUEST` 开源探索 |
+| :--- | :--- |
+| **[lionel-emos-system](https://github.com/lionelGallagher/lionel-emos-system)** | **[mcpm.sh](https://github.com/lionelGallagher/mcpm.sh)** |
+| Java 后端工程，记录从想法到代码的实现与迭代。 | MCP 服务管理工具的 Fork，用来探索 AI 工具与开发工作流。 |
+| `Java` · `Backend` | `MCP` · `CLI` · `Fork` |
+
+### `04 / BATTLE LOG` 战绩记录
+
+<p align="center">
+  <img src="./images/github-stats.svg" width="440" align="top" alt="GitHub 公开统计：Star、提交、Pull Request、Issue 与参与项目，每日刷新。" />
+  &nbsp;
+  <img src="./images/top-langs.svg" width="355" align="top" alt="GitHub 公开仓库常用语言分布，每日刷新。" />
+</p>
+
+<details>
+<summary><strong>展开领域 · 贡献轨迹</strong></summary>
+<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lionelGallagher/lionelGallagher/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lionelGallagher/lionelGallagher/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/lionelGallagher/lionelGallagher/output/github-contribution-grid-snake.svg" width="100%" alt="由 GitHub 贡献记录生成的贪吃蛇动画。" />
+</picture>
+</details>
+
+<br />
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./images/terminal-footer-mobile.svg" />
+  <img src="./images/terminal-footer.svg" width="100%" alt="术式未完，持续进化。The next chapter is still compiling." />
+</picture>

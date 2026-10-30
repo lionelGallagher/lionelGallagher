@@ -1,0 +1,48 @@
+name: Refresh terminal dossier
+
+on:
+  schedule:
+    # 08:17 Asia/Shanghai. Avoid the busiest start-of-hour queue.
+    - cron: '17 0 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/refresh_profile.py'
+      - 'tests/test_refresh_profile.py'
+      - 'data/profile.json'
+      - '.github/workflows/refresh-profile.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-terminal-dossier
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@v7
+        with:
+          ref: main
+      - name: Verify calendar boundaries and image cache
+        run: python3 -m unittest discover -s tests -v
+      - name: Refresh experience and statistics
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/refresh_profile.py
+      - name: Save refreshed dossier
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/profile.json images/experience.svg images/experience-mobile.svg images/github-stats.svg images/top-langs.svg
+          if git diff --cached --quiet; then
+            echo 'Dossier is already current.'
+            exit 0
+          fi
+          git commit -m 'chore: refresh terminal dossier [skip ci]'
+          git push origin HEAD:main

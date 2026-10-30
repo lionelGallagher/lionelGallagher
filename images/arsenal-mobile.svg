@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="578" viewBox="0 0 640 578" role="img" aria-labelledby="title desc">
+  <title id="title">术式武装库 — Backend Arsenal</title>
+  <desc id="desc">Java、Spring Boot；MySQL、PostgreSQL、Redis、RabbitMQ；Docker、Kubernetes、Nginx、Prometheus。</desc>
+  <style>text{font-family:Consolas,'Microsoft YaHei',monospace}.name{font-size:23px;fill:#dce7f8}.label{font-size:19px;letter-spacing:1px}</style>
+  <rect x="1" y="1" width="638" height="576" rx="14" fill="#0b1220" stroke="#203248"/>
+  <text x="28" y="40" class="label" fill="#55e6ca">01 / CORE · 核心术式</text>
+  <g fill="#101e2b" stroke="#294641"><rect x="28" y="60" width="284" height="54" rx="7"/><rect x="328" y="60" width="284" height="54" rx="7"/></g>
+  <text x="48" y="95" class="name">Java</text><text x="348" y="95" class="name">Spring Boot</text>
+  <path d="M28 141H612" stroke="#203248" stroke-dasharray="3 6"/>
+  <text x="28" y="183" class="label" fill="#a78bfa">02 / DATA · 数据结界</text>
+  <g fill="#15192d" stroke="#33334f"><rect x="28" y="204" width="284" height="54" rx="7"/><rect x="328" y="204" width="284" height="54" rx="7"/><rect x="28" y="274" width="284" height="54" rx="7"/><rect x="328" y="274" width="284" height="54" rx="7"/></g>
+  <text x="48" y="239" class="name">MySQL</text><text x="348" y="239" class="name">PostgreSQL</text><text x="48" y="309" class="name">Redis</text><text x="348" y="309" class="name">RabbitMQ</text>
+  <path d="M28 355H612" stroke="#203248" stroke-dasharray="3 6"/>
+  <text x="28" y="397" class="label" fill="#eab766">03 / INFRA · 部署领域</text>
+  <g fill="#1c1c24" stroke="#453d32"><rect x="28" y="418" width="284" height="54" rx="7"/><rect x="328" y="418" width="284" height="54" rx="7"/><rect x="28" y="488" width="284" height="54" rx="7"/><rect x="328" y="488" width="284" height="54" rx="7"/></g>
+  <text x="48" y="453" class="name">Docker</text><text x="348" y="453" class="name">Kubernetes</text><text x="48" y="523" class="name">Nginx</text><text x="348" y="523" class="name">Prometheus</text>
+</svg>
