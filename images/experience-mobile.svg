@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="252" viewBox="0 0 640 252" role="img" aria-labelledby="title desc">
-  <title id="title">精神时光屋 / 工作经验 · 3 年 11 个月 21 天</title>
-  <desc id="desc">工作经验按首次公开提交起累计：3 年 11 个月 21 天。起点 2022-11-09，更新 2026-10-30，上海时间。</desc>
+  <title id="title">精神时光屋 / 工作经验 · 3 年 11 个月 22 天</title>
+  <desc id="desc">工作经验按首次公开提交起累计：3 年 11 个月 22 天。起点 2022-11-09，更新 2026-10-31，上海时间。</desc>
   <rect x="1" y="1" width="638" height="250" rx="0" fill="#fffdf8" stroke="#22252a" stroke-width="2"/>
   <path d="M1 1H7V57H1Z" fill="#d66317"/>
   <g font-family="'Microsoft YaHei', 'PingFang SC', sans-serif">
     <text x="30" y="40" font-size="18" fill="#d66317" letter-spacing="2">CAPSULE / 精神时光屋</text>
-    <text x="30" y="106" font-size="42" font-weight="700" fill="#20252a">3 年 <tspan fill="#d66317">11</tspan> 个月 <tspan fill="#d66317">21</tspan> 天</text>
+    <text x="30" y="106" font-size="42" font-weight="700" fill="#20252a">3 年 <tspan fill="#d66317">11</tspan> 个月 <tspan fill="#d66317">22</tspan> 天</text>
     <text x="30" y="145" font-size="18" fill="#626b73">地球修炼时间 · 首次提交至今</text>
     <path d="M30 166H610" stroke="#22252a"/>
-    <text x="30" y="199" font-size="17" fill="#626b73">SINCE <tspan fill="#20252a">2022-11-09</tspan> <tspan fill="#d66317">/ DAY 001451</tspan></text>
-    <text x="30" y="229" font-size="15" fill="#626b73">AS OF 2026-10-30 · UTC+08:00</text>
+    <text x="30" y="199" font-size="17" fill="#626b73">SINCE <tspan fill="#20252a">2022-11-09</tspan> <tspan fill="#d66317">/ DAY 001452</tspan></text>
+    <text x="30" y="229" font-size="15" fill="#626b73">AS OF 2026-10-31 · UTC+08:00</text>
   </g>
 </svg>
